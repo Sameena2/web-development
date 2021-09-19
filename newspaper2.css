@@ -1,0 +1,43 @@
+body{
+    margin:150px;
+    
+}
+.top{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.mid{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.a{
+    float:left
+}
+.b{
+    float:left
+}
+
+.j{
+    color:white;
+    background-color: brown;
+    float:left;
+}
+.p{
+    font-size: xx-large;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.h{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.k>p{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+}

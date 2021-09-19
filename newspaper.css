@@ -1,0 +1,60 @@
+body{
+    margin:150px;
+    
+}
+.top{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+}
+.s{
+
+    color:white;
+    background-color: brown;
+    float:left;
+}
+.y{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+.mid{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.i{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.a{
+    color:white;
+    background-color: brown;
+    float:left
+}
+.b{
+    color:white;
+    background-color: brown;
+    float:left
+}
+.c{
+    color:white;
+    background-color: brown;
+    float:left
+}
+.y>p{
+    align-content: space-around
+}
+.mid>p{
+    align-content: space-around;
+}
+.b>p{
+    align-content: space-around;
+}
+.d{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
